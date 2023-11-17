@@ -9,7 +9,7 @@ spec:
     namespace: fof-presentation
   project: default
   source:
-    repoURL: git@github.com:kevinetore/kodado.git
+    repoURL: https://github.com/kevinetore/fof_k8s.git
     path: dev
     targetRevision: HEAD
   syncPolicy:
